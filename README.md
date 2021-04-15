@@ -14,3 +14,6 @@ Weiss ich nicht.
 Nach änderung Source updaten mit ctr enter amena
 dann dasch hochladen auf desch cloud vong github website lohl
 wenn dann website zum refreshed wird, dann ischt das da lololoololol
+
+Das bimst link zum sei
+https://github.com/Aiysha69/git-dmo.git
