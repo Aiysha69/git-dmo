@@ -20,5 +20,7 @@ https://github.com/Aiysha69/git-dmo.git
 
 Markdown:
 _itallic_ mit _ um das Wort 
+
 **bold** mit ** um das Wort
+
 **_bold and itallic_** mit ** und dann _
