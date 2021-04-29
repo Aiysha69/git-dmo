@@ -24,3 +24,26 @@ _itallic_ mit _ um das Wort
 **bold** mit ** um das Wort
 
 **_bold and itallic_** mit ** und dann _
+
+#Header
+
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
+Je mehr Hashtags, desto weniger gross wird der Titel.
+
+#Links 
+inline link: Text in[] und link dahinter in ()
+
+Beispiel. [Search for it.](www.google.com)
+
+[You're **really, really** going to want to see this.](www.dailykitten.com)
+
+Man kann im Text, der zum Link führt auch betonen mit **bold** schrift
+
+####The Latest News from [the BBC](www.bbc.com/news)
+Man kann auch Links in Titel machen lol
+
