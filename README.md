@@ -47,3 +47,13 @@ Man kann im Text, der zum Link führt auch betonen mit **bold** schrift
 ####The Latest News from [the BBC](www.bbc.com/news)
 Man kann auch Links in Titel machen lol
 
+https://www.markdowntutorial.com/lesson/3/
+
+Do you want to [see something fun][a fun place]?
+
+Well, do I have [the website for you][another fun place]!
+
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com
+
+referenced links in []
