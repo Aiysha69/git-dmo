@@ -25,7 +25,7 @@ _itallic_ mit _ um das Wort
 
 **_bold and itallic_** mit ** und dann _
 
-#Header
+# Header
 
 # Header one
 ## Header two
@@ -35,7 +35,7 @@ _itallic_ mit _ um das Wort
 ###### Header six
 Je mehr Hashtags, desto weniger gross wird der Titel. Der erste Titel hat ur 1 #
 
-#Links 
+# Links 
 inline link: Text in[] und link dahinter in ()
 
 Beispiel. [Search for it.](www.google.com)
@@ -44,7 +44,8 @@ Beispiel. [Search for it.](www.google.com)
 
 Man kann im Text, der zum Link führt auch betonen mit **bold** schrift
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
+
 Man kann auch Links in Titel machen lol
 
 https://www.markdowntutorial.com/lesson/3/
