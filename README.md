@@ -18,4 +18,7 @@ wenn dann website zum refreshed wird, dann ischt das da lololoololol
 Das bimst link zum sei
 https://github.com/Aiysha69/git-dmo.git
 
-_Markdown Italic lool_
+Markdown:
+_itallic_ mit _ um das Wort 
+**bold** mit ** um das Wort
+**_bold and itallic_** mit ** und dann _
